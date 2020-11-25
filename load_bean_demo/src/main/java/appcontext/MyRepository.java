@@ -1,2 +1,4 @@
-package appcontext;public class MyRepository {
+package appcontext;
+
+public class MyRepository {
 }
